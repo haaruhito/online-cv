@@ -48,8 +48,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a third year IT student at Metropolia University of Applied SCiences. 
-      I am studying Machine Learning in Integrify. 
+      I am a third year student studying IoT and Cloud Computing as major at Metropolia UAS. 
+      I have completed different courses of Cisco Networking Academy (15 ects). 
+      I have completed advance course of Red Hat Enterprise Linux 7 (CentOs). In addition, 
+      I have taken Cybersecurity (5 ects) and Wireless Network (5 ects) courses. Furthermore, 
+      I have taken Data Mining (3ects) and Machine Learning (3 ects) course as well.
+      Currently, I am studying Machine Learning and Python in Integrify. 
 education:
     - degree: Bachelors Degree in Informaton Technology
       university: Metropolia University of Applied Sciences
