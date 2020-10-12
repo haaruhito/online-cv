@@ -95,11 +95,9 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I have published my Bachelors thesis from my first degree in Diconia University of Applied Sciences.
     papers:
-      - title: The Art of Computer Programming
+      - title: International Exchange: an aperture to community development and self discover
         link: "https://www.theseus.fi/bitstream/handle/10024/99408/Sapkota_Shree.pdf?sequence=1&isAllowed=y"
         authors: Shree Newas Sapkota
         
