@@ -15,15 +15,15 @@ sidebar:
     email: shree_newas@hotmail.com
     phone: 012 345 678
     website: haaruhito.github.io/online-cv/ #do not add http://
-    linkedin: https://www.linkedin.com/in/shree-sapkota-0b2a1777/
+    linkedin: Shree Sapkota
     github: haaruhito
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
     #twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
