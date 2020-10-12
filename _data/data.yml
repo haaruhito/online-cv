@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: shree_newas@hotmail.com
     phone: 012 345 678
-    website: blog.webjeda.com #do not add http://
+    website: haaruhito.github.io/online-cv/ #do not add http://
     linkedin: Shree Sapkota
     github: haaruhito
     telegram: # add your nickname without '@' sign
@@ -52,7 +52,7 @@ career-profile:
       I am studying Machine Learning in Integrify. 
 education:
     - degree: Bachelors Degree in Informaton Technology
-      university: University of London
+      university: Metropolia University of Applied Sciences
       time: 2018 - 2022
       details: |
         Third year student. I have done Networking courses from Cisco
@@ -87,9 +87,9 @@ projects:
     intro: >
       I have completed few school projects. 
     assignments:
-      - title: Velocity
+      - title: Measuring Remote Temperature and Humidity
         #link: "#hook"
-        tagline: "Temperature and Humidity sensor using Raspberry pi."
+        tagline: "I used Raspberry pi and temperature humidity sensor to measure remote temperature."
 
       
 publications:
@@ -100,19 +100,11 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        link: "https://www.theseus.fi/bitstream/handle/10024/99408/Sapkota_Shree.pdf?sequence=1&isAllowed=y"
+        authors: Shree Newas Sapkota
+        
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+     
 
 skills:
     title: Skills &amp; Proficiency
@@ -132,5 +124,5 @@ skills:
       - name: Git
         level: 80%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
