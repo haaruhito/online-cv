@@ -112,7 +112,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Linux
+      - name: Linux OS
         level: 60%
 
       - name: Python
